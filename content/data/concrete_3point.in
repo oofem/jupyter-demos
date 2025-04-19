@@ -1,7 +1,7 @@
 concrete_3point.out
 Test: 3-point bending, triangular elements, 1 loaded point
-StaticStructural nsteps 2 solverType "calm" stepLength 0.025  rtolf 1e-4 Psi 0.0 MaxIter 200 reqIterations 80 HPC 2 1 2 stiffmode 1 nmodules 1
-vtkxml tstep_all primvars 1 1 setmembership 
+StaticStructural nsteps 2 solverType "calm" stepLength 0.025  rtolf 1e-4 Psi 0.0 MaxIter 200 reqIterations 80 HPC 2 1 2 stiffmode 1 nmodules 0
+#vtkxml tstep_all primvars 1 1 setmembership 
 domain 2dPlaneStress
 #
 # zkracena verze vypoctu z me disertace
