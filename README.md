@@ -1,6 +1,6 @@
 # OOFEM JupyterLite demos & tutorials
 
-OOFEM.org is open-source, multi-physics finite element solver. It is written in C++ with object-oriented architecture. Wisit https://www.oofem.org for documentation and tutorials.
+OOFEM.org is open-source, multi-physics finite element solver. It is written in C++ with object-oriented architecture. Visit https://www.oofem.org for documentation and tutorials.
 
 OOFEM comes with Python bindings, allowing to script the solver from python and also to develop custom elements, material models and solvers in Python.
 
