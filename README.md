@@ -8,6 +8,6 @@ This repository contains a collection of Jupter notebboks with demos and tutoria
 
 ## ✨ Try it in your browser ✨
 
-➡️ **https://oofem.github.io/jupyter-demos/lab/index.html**
+➡️ **https://oofem.github.io/jupyter-demos/lab/index.html?path=Welcome.ipynb**
 
 
